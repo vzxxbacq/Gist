@@ -26,6 +26,7 @@
 
 #include <vector>
 #include <math.h>
+#include <stddef.h>
 
 /** template class for calculating common time domain
  * audio features. Instantiations of the class should be

@@ -27,6 +27,7 @@
 #define _USE_MATH_DEFINES
 #include <vector>
 #include <cmath>
+#include <stddef.h>
 
 /** template class for calculating onset detection functions
  * Instantiations of the class should be of either 'float' or 

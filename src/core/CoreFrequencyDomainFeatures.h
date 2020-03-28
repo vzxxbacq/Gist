@@ -27,6 +27,7 @@
 #include <vector>
 #include <numeric>
 #include <math.h>
+#include <stddef.h>
 
 /** template class for calculating common frequency domain
  * audio features. Instantiations of the class should be

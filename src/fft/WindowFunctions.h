@@ -27,6 +27,7 @@
 #define _USE_MATH_DEFINES
 #include <vector>
 #include <cmath>
+#include <stddef.h>
 
 //=======================================================================
 /** A type indicator for different windows */
