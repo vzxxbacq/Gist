@@ -4,3 +4,5 @@ xcuserdata
 python-module/build
 max-externals/project/Build
 *.xccheckout
+.idea
+cmake-build-debug
